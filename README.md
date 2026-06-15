@@ -1,5 +1,5 @@
 # Cognifyz Technologies - Data Analysis Internship
-## Submitted by: Dharani
+## Submitted by: DHARANI M
 
 ---
 
